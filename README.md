@@ -44,8 +44,6 @@ quarto preview
 quarto render
 ```
 
-Готовые страницы появятся в папке `docs/`. Для GitHub Pages выберите ветку `main` и папку `/docs`.
-
 ## Структура
 
 - `index.qmd` — главная страница;
